@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "9be3d7c0bffe2c0e7db42c3fc05e9e6e802548ce75b667a96ca01aba16315727"
+build_start_time: [1675802036, 159265995]
+build_end_time: [1675802036, 219300031]
+inputs:
+  "/Users/christalcamillo/Desktop/flutter_application_codelabs/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1675802007, 860153675]
+  "/Users/christalcamillo/Desktop/flutter_application_codelabs/macos/Runner/AppDelegate.swift": !private [1675285518, 0]
+  "/Users/christalcamillo/Desktop/flutter_application_codelabs/macos/Runner/MainFlutterWindow.swift": !private [1675285518, 0]
